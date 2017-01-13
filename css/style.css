@@ -1,12 +1,6 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 html, body{
     font-size: 100%;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Arial';
 	background:#ffffff;
 	margin: 0;
 }
@@ -15,7 +9,7 @@ p,ul li,ol li{
 	font-size:14px;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Comfortaa', cursive;
+	font-family: 'Arial';
 	margin:0;
 }
 ul,label{
@@ -53,8 +47,17 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left1,.w3layouts_m
 	min-height:270px;
 	position: relative;
 }
-.w3l-banner-info h2 {
+.w3l-banner-info h3 {
     color: #fff;
+    font-size: 60px;
+    text-align: center;
+    text-transform:uppercase;
+    line-height: 60px;
+	letter-spacing:2px;
+	font-weight:600;
+}
+.w3l-banner-info h2 {
+    color: #005696;
     font-size: 45px;
     text-align: center;
     text-transform:uppercase;
@@ -64,7 +67,7 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left1,.w3layouts_m
 }
 .w3l-banner-info p {
     font-size: 18px;
-    color: #cccccc;
+    color: #fff;
     text-align: center;
     margin: 20px 0 0;
 }
@@ -78,8 +81,8 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left1,.w3layouts_m
     border: none;
 }
 .navbar {
-    margin-bottom: 0;
-    padding: 1em 0;
+    margin-bottom: 10px;
+    padding: 0.9em 0;
 }
 .navbar-brand {
     font-size: 46px;
@@ -101,7 +104,7 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left1,.w3layouts_m
     color: #005595;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-    color:#67944f;
+    color:#005595;
     background: none;
 }
 .navbar-nav > li > a {
@@ -127,7 +130,7 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left1,.w3layouts_m
 }
 .navbar-nav {
     float: right !important;
-    margin: 0;
+    margin-top: 50px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color:#67944f;
@@ -262,8 +265,8 @@ ul.dropdown-menu {
     text-transform: uppercase;
     font-size: 20px;
     letter-spacing: 2px;
-    color: #67944f;
     font-weight: 600;
+    color:#005595;
     margin: 2em 0 1em;
     padding-bottom: .5em;
     position: relative;
@@ -282,7 +285,7 @@ ul.dropdown-menu {
     transition: all .5s ease;
     width: 20%;
     height: 1px;
-    background: #67944f;
+    background: #005595;
     left: 40%;
     bottom: 0;
 }
@@ -295,7 +298,7 @@ ul.dropdown-menu {
 	line-height:2em;
 }
 .w3_agileits_services_grid:hover .w3_agileits_services_grid_agile{
-	background: #67944f;
+	background-color: rgb(42, 55, 212);
 }
 .w3_agileits_services_grid:hover .w3_agileits_services_grid_1{
 	background:#fff;
@@ -666,7 +669,7 @@ ul.dropdown-menu {
     margin-top: 4em;
 }
 /*--flexisel--*/
-.flex-slider{	
+.flex-slider{
 	background:#222227;
 	padding: 70px 0 165px 0;
 }
@@ -754,7 +757,7 @@ ul.dropdown-menu {
 .agileinfo_footer_bottom_grid ul.tag2 li{
 	display:inline-block;
 }
-.agileinfo_footer_bottom_grid ul.tag2 li a{	
+.agileinfo_footer_bottom_grid ul.tag2 li a{
 	font-size: 13px;
     color: #CCC8C8;
     padding: 3px 7px;
@@ -1028,7 +1031,7 @@ ul.tag2:last-child {
     -ms-transition: 0.5s all;
     -moz-transition: 0.5s all;
     cursor: pointer;
-} 
+}
 .icon-box:hover {
     background: #000;
 	transition:0.5s all;
@@ -1047,11 +1050,11 @@ ul.tag2:last-child {
     float: left;
     width: 12.5%;
     height: 115px;
-    padding: 10px; 
+    padding: 10px;
     line-height: 1.4;
-    text-align: center;  
+    text-align: center;
     font-size: 12px;
-    list-style-type: none;	
+    list-style-type: none;
 }
 .codes .bs-glyphicons .glyphicon {
     margin-top: 5px;
@@ -1069,7 +1072,7 @@ ul.tag2:last-child {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	color: #777;
-} 
+}
 .codes .bs-glyphicons .glyphicon-class {
     display: block;
     text-align: center;
@@ -1126,7 +1129,7 @@ h3.agileits-icons-title {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	color: #777;
-} 
+}
 .bs-glyphicons .glyphicon-class {
     display: block;
     text-align: center;
@@ -1237,7 +1240,7 @@ li.list-group-item1 {
 .label {
 	font-weight: 300 !important;
 	border-radius:4px;
-}  
+}
 .grid_5{
 	background:none;
 	padding:2em 0;
@@ -2494,7 +2497,7 @@ h2.typoh2{
     margin: 0 0 1em 0em;
 }
 .w3_contact_grids input[type="submit"] {
-    margin-left: 0; 
+    margin-left: 0;
 	width: 45%;
 }
 .w3_wthree_agileits_icons.main-grid-border {
