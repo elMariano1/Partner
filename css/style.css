@@ -728,7 +728,7 @@ ul.dropdown-menu {
 /*-- //testimonials --*/
 /*-- //footer --*/
 .agileinfo_footer_bottom{
-	background: #222222;
+	background: #3380af;
     font-style: normal;
     padding: 3em 0;
     margin:  0;
@@ -982,18 +982,18 @@ ul.tag2:last-child {
     margin-bottom: 1em;
     font-size: 14px;
     line-height: 1.8em;
-    color: #999;
+    color: #fff;
     padding-left: 1em;
 }
 .agileinfo_footer_bottom_grid ul li span{
 	left:-1em;
 }
 .agileinfo_footer_bottom_grid ul li a{
-	color:#999;
+	color:#fff;
 	text-decoration:none;
 }
 .agileinfo_footer_bottom_grid ul li a:hover{
-	color:#fff;
+	color:#999;
 }
 /*-- footer --*/
 .footer-w3layouts {
