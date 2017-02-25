@@ -23,6 +23,10 @@
 -->
 </head>
 <body>
+
+	<!-- Google Analytics -->
+		<?php include_once("analyticstracking.php") ?>
+
 	<div class="header w3layouts">
 		<div class="container">
 			<nav class="navbar navbar-default">
@@ -49,7 +53,7 @@
 									<li><a href="index.html">Organigrama</a></li>
 								</ul>
 							</li>
-							<li class="active"><a href="index.html">Transparencia</a></li>
+							<li class="active"><a href="transparencia.html">Transparencia</a></li>
 							<li><a href="index.html">Noticias</a></li>
 							<li><a href="index.html">Tramites y Servicios</a></li>
 							<li class="dropdown">

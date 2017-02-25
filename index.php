@@ -23,6 +23,10 @@
 -->
 </head>
 <body>
+
+	<!-- Google Analytics -->
+		<?php include_once("analyticstracking.php") ?>
+
 	<div class="header w3layouts">
 		<div class="container">
 			<nav class="navbar navbar-default">
