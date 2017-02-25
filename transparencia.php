@@ -37,7 +37,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="index.html"><img src="images/logo.png" width="100" height="100"></a>
+					<a class="navbar-brand" href="index.php"><img src="images/logo.png" width="100" height="100"></a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
@@ -46,28 +46,28 @@
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Gobierno<b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="index.html">Presidencia Municipal</a></li>
-									<li><a href="index.html">H. Ayuntamiento</a></li>
-									<li><a href="index.html">Comiciones Edilicias</a></li>
-									<li><a href="index.html">Reglamentos</a></li>
-									<li><a href="index.html">Organigrama</a></li>
+									<li><a href="index.php">Presidencia Municipal</a></li>
+									<li><a href="index.php">H. Ayuntamiento</a></li>
+									<li><a href="index.php">Comiciones Edilicias</a></li>
+									<li><a href="index.php">Reglamentos</a></li>
+									<li><a href="index.php">Organigrama</a></li>
 								</ul>
 							</li>
-							<li class="active"><a href="transparencia.html">Transparencia</a></li>
-							<li><a href="index.html">Noticias</a></li>
-							<li><a href="index.html">Tramites y Servicios</a></li>
+							<li class="active"><a href="transparencia.php">Transparencia</a></li>
+							<li><a href="index.php">Noticias</a></li>
+							<li><a href="index.php">Tramites y Servicios</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dependencias<b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="index.html">Agua Potable</a></li>
-									<li><a href="index.html">Catastro</a></li>
-									<li><a href="index.html">Desarrollo social y Ecología</a></li>
-									<li><a href="index.html">Desarrollo Social</a></li>
-									<li><a href="index.html">Educación y Cultura</a></li>
-									<li><a href="index.html">Hacienda Municipal</a></li>
-									<li><a href="index.html">Obras Públicas</a></li>
-									<li><a href="index.html">Registro Civil</a></li>
-									<li><a href="index.html">Poder Joven</a></li>
+									<li><a href="index.php">Agua Potable</a></li>
+									<li><a href="index.php">Catastro</a></li>
+									<li><a href="index.php">Desarrollo social y Ecología</a></li>
+									<li><a href="index.php">Desarrollo Social</a></li>
+									<li><a href="index.php">Educación y Cultura</a></li>
+									<li><a href="index.php">Hacienda Municipal</a></li>
+									<li><a href="index.php">Obras Públicas</a></li>
+									<li><a href="index.php">Registro Civil</a></li>
+									<li><a href="index.php">Poder Joven</a></li>
 								</ul>
 							</li>
 						</ul>
