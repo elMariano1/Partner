@@ -5314,6 +5314,29 @@ a.list-group-item-danger.active:focus {
 }
 .panel-body {
   padding: 15px;
+  background: #f4f4f4;
+}
+.panel-body a{
+  color: #56a1bc;
+}
+.panel-body a:hover{
+  color: #a5a5a5;
+  font-style: oblique;
+  text-decoration: underline;
+}
+.panel-body-min {
+  padding: 15px;
+  height: 300px;
+  overflow-y: auto;
+  background: #f4f4f4;
+}
+.panel-body-min a{
+  color: #56a1bc;
+}
+.panel-body-min a:hover{
+  color: #a5a5a5;
+  font-style: oblique;
+  text-decoration: underline;
 }
 .panel-heading {
   padding: 10px 15px;
