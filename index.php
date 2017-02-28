@@ -95,7 +95,7 @@
 				<div class="col-md-4 w3_agileits_services_grid">
 					<div class="w3_agileits_services_grid_agile">
 						<div>
-							<i aria-hidden="true"><img src="images/infomexlogo.png" width="105" height="105"></i>
+							<i aria-hidden="true"><a href="#"><img src="images/infomexlogo.png" width="105" height="105"></a></i>
 						</div>
 						<h3>Infomex Jalisco</h3>
 					</div>
@@ -103,7 +103,7 @@
 				<div class="col-md-4 w3_agileits_services_grid">
 					<div class="w3_agileits_services_grid_agile">
 						<div>
-							<i><img src="images/iteilogo.png" width="150" height="100"></i>
+							<i><a href="https://www.itei.org.mx/v4/"><img src="images/iteilogo.png" width="150" height="100"></a></i>
 						</div>
 						<h3>itei</h3>
 					</div>
@@ -111,7 +111,7 @@
 				<div class="col-md-4 w3_agileits_services_grid">
 					<div class="w3_agileits_services_grid_agile">
 						<div>
-							<i ><img src="images/logogob.png" width="100" height="100"></i>
+							<i><a href="#"><img src="images/logogob.png" width="100" height="100"></a></i>
 						</div>
 						<h3>Gobierno del Estado de Jalisco</h3>
 					</div>
@@ -119,7 +119,7 @@
 				<div class="col-md-4 w3_agileits_services_grid">
 					<div class="w3_agileits_services_grid_agile">
 						<div>
-							<img src="images/triblogo.png" width="100" height="100">
+							<i><a href="#"><img src="images/triblogo.png" width="100" height="100"></a></i>
 						</div>
 						<h3>Tribunal Electoral</h3>
 						<p>del estado de Jalisco</p>
