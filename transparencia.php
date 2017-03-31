@@ -267,6 +267,122 @@
 	clic20= 1;
 	}
 		}
+	clic21=1;
+	function mostrar21() {
+	if(clic21==1){
+	div = document.getElementById('flotante21');
+			 div.style.display = '';
+	clic21 = clic17 + 1;
+	} else{
+		div = document.getElementById('flotante21');
+				div.style.display = 'none';
+	clic21= 1;
+	}
+		}
+
+	clic22=1;
+	function mostrar22() {
+	if(clic22==1){
+	div = document.getElementById('flotante22');
+			 div.style.display = '';
+	clic22 = clic17 + 1;
+	} else{
+		div = document.getElementById('flotante22');
+				div.style.display = 'none';
+	clic22= 1;
+	}
+		}
+
+	clic23=1;
+	function mostrar23() {
+	if(clic23==1){
+	div = document.getElementById('flotante23');
+			 div.style.display = '';
+	clic23 = clic17 + 1;
+	} else{
+		div = document.getElementById('flotante23');
+				div.style.display = 'none';
+	clic23= 1;
+	}
+		}
+
+	clic24=1;
+	function mostrar24() {
+	if(clic24==1){
+	div = document.getElementById('flotante24');
+			 div.style.display = '';
+	clic24 = clic17 + 1;
+	} else{
+		div = document.getElementById('flotante24');
+				div.style.display = 'none';
+	clic24= 1;
+	}
+		}
+
+  clic25=1;
+	function mostrar25() {
+	if(clic25==1){
+	div = document.getElementById('flotante25');
+			 div.style.display = '';
+	clic25 = clic17 + 1;
+	} else{
+		div = document.getElementById('flotante25');
+				div.style.display = 'none';
+	clic25= 1;
+	}
+		}
+
+	clic26=1;
+	function mostrar26() {
+	if(clic26==1){
+	div = document.getElementById('flotante26');
+			 div.style.display = '';
+	clic26 = clic17 + 1;
+	} else{
+		div = document.getElementById('flotante26');
+				div.style.display = 'none';
+	clic26= 1;
+	}
+		}
+
+	clic27=1;
+	function mostrar27() {
+	if(clic27==1){
+	div = document.getElementById('flotante27');
+			 div.style.display = '';
+	clic27 = clic17 + 1;
+	} else{
+		div = document.getElementById('flotante27');
+				div.style.display = 'none';
+	clic27= 1;
+	}
+		}
+
+	clic28=1;
+	function mostrar28() {
+	if(clic28==1){
+	div = document.getElementById('flotante28');
+			 div.style.display = '';
+	clic28 = clic17 + 1;
+	} else{
+		div = document.getElementById('flotante28');
+				div.style.display = 'none';
+	clic28= 1;
+	}
+		}
+
+	clic29=1;
+	function mostrar29() {
+	if(clic29==1){
+	div = document.getElementById('flotante29');
+			 div.style.display = '';
+	clic29 = clic17 + 1;
+	} else{
+		div = document.getElementById('flotante29');
+			div.style.display = 'none';
+	clic29= 1;
+	}
+		}
 
 </script>
 
@@ -347,9 +463,9 @@
 			<div class="row animated wow fadeInRight" data-wow-duration="1000ms">
 				<div class="panel panel-success">
 					<div class="panel-heading">
-						<h3 class="panel-title">1. Información necesaria para el ejercicio del derecho a la información pública</h3>
+					<a href="javascript:mostrar21();" style="text-decoration:none; color:rgb(51, 122, 183);" ><h3 class="panel-title">1. Información necesaria para el ejercicio del derecho a la información pública</h3></a>
 					</div>
-
+          <div id="flotante21" style="display: none;">
 					<div class="panel-body-min">
 						<p>a) <a href="javascript:mostrar();">La Ley General, la presente Ley y su Reglamento. ↓↑</a></p>
 							<div id="flotante" style="display: none;">
@@ -388,13 +504,14 @@
 						<p>n) Índice de los expedientes clasificados como reservados, por área responsable de la información y tema.</p>
 						<p>ñ) La estadística de las solicitudes de información pública atendidas, precisando las procedentes, parcialmente procedentes e improcedentes. Así como la estadística de visitas a su sistema de consulta electrónica.</p>
 					</div>
+					</div>
 				</div>
 
 				<div class="panel panel-info">
 					<div class="panel-heading">
-						<h3 class="panel-title">2. Información sobre el marco juridico, aplicable al y por el sujeto obligado</h3>
+						<a href="javascript:mostrar22();" style="text-decoration:none; color:rgb(51, 122, 183);"><h3 class="panel-title">2. Información sobre el marco juridico, aplicable al y por el sujeto obligado</h3></a>
 					</div>
-
+         <div id="flotante22" style="display: none;">
 					<div class="panel-body">
 						<p>a) <a href="javascript:mostrar3();">Las disposiciones de las Constituciones Políticas Federal y Estatal. ↓↑</a></p>
 						<div id="flotante3" style="display:none;">
@@ -512,12 +629,13 @@
 						<p>e) <a href="docs\art-8-fracc-II\E).docx">Los decretos, acuerdos, criterios, políticas, reglas de operación y demás normas jurídicas generales.</a></p>
 					</div>
 				</div>
+				</div>
 
 			  	<div class="panel panel-warning">
 				  	<div class="panel-heading">
-				  		<h3 class="panel-title">3. Información sobre la planeación del desarrollo, aplicable al y por el sujeto obligado </h3>
+				  		<a href="javascript:mostrar23();" style="text-decoration:none; color:rgb(51, 122, 183);"><h3 class="panel-title">3. Información sobre la planeación del desarrollo, aplicable al y por el sujeto obligado </h3></a>
 				  	</div>
-
+            <div id="flotante23" style="display: none;">
 				  	<div class="panel-body">
 						<p>a) <a href="docs\art-8-fracc-III\a)\PND.pdf">Los apartados del Plan Nacional de Desarrollo que sirve de marco general a la planeación de las áreas relativas a las funciones del sujeto obligado.</a></p>
 						<p>b) <a href="javascript:mostrar6();">Los apartados de los programas federales. ↓↑</a></p>
@@ -551,23 +669,14 @@
 						<p>f) Las evaluaciones y encuestas que hagan los sujetos obligados a programas financiados con recursos públicos.</a></p>
 						<p>g) Los demás instrumentos de planeación no comprendidos en los incisos anteriores.</a></p>
 				  	</div>
+					</div>
 			  	</div>
-
-
-
-
-
-
-
-
-
-
 
 			  	<div class="panel panel-success">
 		  			<div class="panel-heading">
-						<h3 class="panel-title">4. Informacion sobre la planeación estratégica gubernamental, aplicable al y por el sujeto obligado</h3>
-			  		</div>
-
+						<a href="javascript:mostrar24();" style="text-decoration:none; color:rgb(51, 122, 183);"><h3 class="panel-title">4. Informacion sobre la planeación estratégica gubernamental, aplicable al y por el sujeto obligado</h3></a>
+					</div>
+					<div id="flotante24" style="display: none;">
 			  		<div class="panel-body">
 			  			<p>a) <a href="javascript:mostrar9();">El Plan General Institucional del poder, organismo o municipio correspondiente, con las modificaciones de cuando menos los últimos tres años. ↓↑</a></p>
 							<div id="flotante9" style="display:none;">
@@ -584,12 +693,14 @@
 							<p>h) Los indicadores que permitan rendir cuenta de sus objetivos y resultados.</p>
 							<p>i) Los demás instrumentos normativos internos aplicables.</p>
 			  		</div>
+					</div>
 			  	</div>
 
 				<div class="panel panel-danger">
 					<div class="panel-heading">
-						<h3 class="panel-title">5. Información financiera, patrimonial y administrativa</h3>
+						<a href="javascript:mostrar25();" style="text-decoration:none; color:rgb(51, 122, 183);"><h3 class="panel-title">5. Información financiera, patrimonial y administrativa</h3></a>
 					</div>
+					<div id="flotante25" style="display: none;">
 
 					<div class="panel-body-min">
 						<p>a) Las partidas del Presupuesto de Egresos de la Federación y del Presupuesto de Egresos del Estado, así como los conceptos del clasificador por objeto del gasto, aplicables al y por el sujeto obligado, de cuando menos los últimos tres años.</p>
@@ -723,11 +834,13 @@
 						<p>z) El registro de los procedimientos de responsabilidad administrativa, con indicación del número de expediente, fecha de ingreso, nombre del denunciante, nombre y cargo del denunciado, causa del procedimiento, estado procesal y, en su caso, la sanción impuesta.</a></p>
 					</div>
 				</div>
+				</div>
 
 				<div class="panel panel-info">
 					<div class="panel-heading">
-						<h3 class="panel-title">6. Informacion sobre la gestion Publica</h3>
+						<a href="javascript:mostrar26();" style="text-decoration:none; color:rgb(51, 122, 183);"><h3 class="panel-title">6. Informacion sobre la gestion Publica</h3></a>
 					</div>
+					<div id="flotante26" style="display: none;">
 
 					<div class="panel-body-min">
 						<p>a) Las funciones públicas que realiza el sujeto obligado, donde se señale cuando menos el fundamento legal, la descripción de la función pública, así como los recursos materiales, humanos y financieros asignados para la realización de la función pública.</a></p>
@@ -760,11 +873,13 @@
 						<p>n) Las estadísticas que generen en cumplimiento de sus facultades, competencias o funciones con la mayor desagregación posible.</a></p>
 					</div>
 				</div>
+				</div>
 
 			  	<div class="panel panel-success">
 			  		<div class="panel-heading">
-						<h3 class="panel-title">Más Fracciones</h3>
-				  	</div>
+						<a href="javascript:mostrar27();" style="text-decoration:none; color:rgb(51, 122, 183);"><h3 class="panel-title">Más Fracciones</h3></a>
+					</div>
+					<div id="flotante27" style="display: none;">
 
 				  	<div class="panel-body">
 					  	<p>VII. Las versiones públicas de las resoluciones y laudos que emitan los sujetos obligados, en procesos o procedimientos seguidos en forma de juicio y que hayan causado estado</a></p>
@@ -777,11 +892,13 @@
 							<p>XIV. La demás información pública a que obliguen las disposiciones federales y la Ley General de Contabilidad Gubernamental, así como aquella que se genere por la ejecución del gasto público con recursos federales</a></p>
 				  	</div>
 			  	</div>
+					</div>
 
 				<div class="panel panel-default">
 					<div class="panel-heading">
-						<h3 class="panel-title">Artículo 15. Información fundamental - Instituto</h3>
+						<a href="javascript:mostrar28();" style="text-decoration:none; color:rgb(51, 122, 183);"><h3 class="panel-title">Artículo 15. Información fundamental - Instituto</h3></a>
 					</div>
+					<div id="flotante28" style="display: none;">
 
 					<div class="panel-body-min">
 						<p>I) La obligatoria para todos los sujetos obligados.</a></p>
