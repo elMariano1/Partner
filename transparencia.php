@@ -351,12 +351,7 @@
 					</div>
 
 					<div class="panel-body-min">
-
-
-
-
-
-						<p>a) <a href="javascript:mostrar();">La Ley General, la presente Ley y su Reglamento. ><</a></p>
+						<p>a) <a href="javascript:mostrar();">La Ley General, la presente Ley y su Reglamento. ↓↑</a></p>
 							<div id="flotante" style="display: none;">
 								<br>
 								<li><a href="docs/art-8-fracc-I/a/Ley_Transparencia_Acceso_Informacion_Publica_Estado_Jalisco_Municipios.pdf" target="_blank">Ley de Transparencia y Acceso a la Informacion Publica del Estado de Jalisco y sus Municipios<br></a></li>
@@ -367,7 +362,7 @@
 							</div>
 						<p>b) <a href="">El reglamento interno para el manejo de la información pública del sujeto obligado.</a></p>
 						<p>c) <a href="docs/art-8-fracc-I/c/LineamientoClasificacionInformacionPublicaC">Los lineamientos estatales de clasificación de información pública, emitidos por el Instituto.</a></p>
-						<p>d) <a href="javascript:mostrar1();">Los lineamientos estatales de publicación y actualización de información fundamental, emitidos por el Instituto. ><</a></p>
+						<p>d) <a href="javascript:mostrar1();">Los lineamientos estatales de publicación y actualización de información fundamental, emitidos por el Instituto. ↓↑</a></p>
 							<div id="flotante1" style="display: none;">
 								<br>
 								 <li><a href="docs\art-8-fracc-I\d\LineamientosGeneralesPublicacionActualizacionInformacionFundamentalD.pdf" target="_blank">Lineamientos Generales Publicación Actualización de Información Fundamental<br></a></li>
@@ -375,7 +370,7 @@
 								<br>
 							</div>
 						<p>e) <a href="docs\art-8-fracc-I\e\LineamientosMateriaProteccionInformacionConfidencialReservadaE.pdf">Los lineamientos estatales de protección de información confidencial y reservada, emitidos por el Instituto.</a></p>
-						<p>f) <a href="javascript:mostrar2();">Los lineamientos generales que emita el Sistema Nacional.</a></p>
+						<p>f) <a href="javascript:mostrar2();">Los lineamientos generales que emita el Sistema Nacional. ↓↑</a></p>
 							<div id="flotante2" style="display:none;">
 								<br>
 								 <li><a href="docs\art-8-fracc-I\f\CriteriosGeneralesTransparenciaBien.pdf" target="_blank">Criterios Generales en Materia de Clasificacion de Informacion Publica<br></a></li>
@@ -401,7 +396,7 @@
 					</div>
 
 					<div class="panel-body">
-						<p>a) <a href="javascript:mostrar3();">Las disposiciones de las Constituciones Políticas Federal y Estatal.</a></p>
+						<p>a) <a href="javascript:mostrar3();">Las disposiciones de las Constituciones Políticas Federal y Estatal. ↓↑</a></p>
 						<div id="flotante3" style="display:none;">
 							<br>
                   <li><a href="docs\art-8-fracc-II\A) Código Civil del Estado de Jalisco (5).doc" target="_blank">Código civil del estado de Jalisco<br></a></li>
@@ -419,7 +414,7 @@
 							<br>
 						</div>
 						<p>b) <a href="docs\art-8-fracc-II\B).docx">Los tratados y convenciones internacionales suscritas por México.</a></p>
-						<p>c) <a href="javascript:mostrar4();">Las leyes federales y estatales.</a></p>
+						<p>c) <a href="javascript:mostrar4();">Las leyes federales y estatales. ↓↑</a></p>
 						<div id="flotante4" style="display:none;">
 							<br>
                   <li><a href="docs\art-8-fracc-II\C).docx" target="_blank">Ley de Transparencia y Acceso a la Información Pública del estado de Jalisco y sus Municipios<br></a></li>
@@ -486,7 +481,7 @@
                   <li><a href="docs\art-8-fracc-II\C) LeyProcedimientoAdministrativoEstadoJalisco.pdf" target="_blank">Ley Procedimiento Administrativo Estado Jalisco<br></a></li>
                   <li><a href="docs\art-8-fracc-II\C) ReformaLeyTransparenciaAccesoInformacionPublica.pdf" target="_blank">Reforma Ley Transparencia Acceso Información Publica<br></a></li><br>
 						</div>
-						<p>d) <a href="javascript:mostrar5();">Los reglamentos federales, estatales y municipales.</a></p>
+						<p>d) <a href="javascript:mostrar5();">Los reglamentos federales, estatales y municipales. ↓↑</a></p>
 						<div id="flotante5" style="display:none;">
 							<br>
                   <li><a href="docs\art-8-fracc-II\R A2) Reglamento de Austeridad y Ahorro de la Auditoria Superior del Estado de Jalisco.doc" target="_blank">Reglamento de Austeridad y Ahorro de la Auditoria Superior del Estado de Jalisco<br></a></li>
@@ -525,7 +520,7 @@
 
 				  	<div class="panel-body">
 						<p>a) <a href="docs\art-8-fracc-III\a)\PND.pdf">Los apartados del Plan Nacional de Desarrollo que sirve de marco general a la planeación de las áreas relativas a las funciones del sujeto obligado.</a></p>
-						<p>b) <a href="javascript:mostrar6();">Los apartados de los programas federales.</a></p>
+						<p>b) <a href="javascript:mostrar6();">Los apartados de los programas federales. ↓↑</a></p>
 						<div id="flotante6" style="display:none;">
 							<br>
                   <li><a href="docs\art-8-fracc-III\b)\Programas sociales 2013.xlsx" target="_blank">Programas Sociales 2013<br></a></li>
@@ -535,7 +530,7 @@
 							<br>
 						</div>
 						<p>c) <a href="docs\art-8-fracc-III\c)\Plan Estatal de Desarrollo Jalisco 2013-2033_2.pdf">Los apartados del Plan Estatal de Desarrollo.</a></p>
-						<p>d) <a href="javascript:mostrar7();">Los programas estatales.</a></p>
+						<p>d) <a href="javascript:mostrar7();">Los programas estatales. ↓↑</a></p>
 						<div id="flotante7" style="display:none;">
 							<br>
                   <li><a href="docs\art-8-fracc-III\d)\Programas sociales 2013.xlsx" target="_blank">Programas Estatales 2013<br></a></li>
@@ -544,7 +539,7 @@
                   <li><a href="docs\art-8-fracc-III\d)\Programas sociales 2016.xlsx" target="_blank">Programas Estatales 2016</a></li>
 							<br>
 						</div>
-						<p>e) <a href="javascript:mostrar8();">Los programas regionales.</a></p>
+						<p>e) <a href="javascript:mostrar8();">Los programas regionales. ↓↑</a></p>
 						<div id="flotante8" style="display:none;">
 							<br>
                   <li><a href="C:\Users\edgar\Documents\GitHub\Partner\docs\art-8-fracc-III\e)\Programas sociales 2013.xlsx" target="_blank">Programas Regionales 2013<br></a></li>
@@ -574,7 +569,7 @@
 			  		</div>
 
 			  		<div class="panel-body">
-			  			<p>a) <a href="javascript:mostrar9();">El Plan General Institucional del poder, organismo o municipio correspondiente, con las modificaciones de cuando menos los últimos tres años.</a></p>
+			  			<p>a) <a href="javascript:mostrar9();">El Plan General Institucional del poder, organismo o municipio correspondiente, con las modificaciones de cuando menos los últimos tres años. ↓↑</a></p>
 							<div id="flotante9" style="display:none;">
 								<br>
                   <li><a href="docs\art-8-fracc-IV\a)\plan de desarrollo municipal 2012-2015 .docx" target="_blank">Plan de Desarrollo Municipal 2012-2015<br></a></li>
@@ -602,7 +597,7 @@
 						<p>c) El presupuesto de egresos anual y, en su caso, el clasificador por objeto del gasto del sujeto obligado, de cuando menos los últimos tres años.</a></p>
 						<p>d) Las convocatorias a concursos para ocupar cargos públicos y los resultados de los mismos.</a></p>
 						<p>e) <a href="docs\art-8-fracc-V\e)\organigrama 2015-2018.docx">El organigrama del sujeto obligado, con las modificaciones de cuando menos los últimos tres años, así como la plantilla del personal del sujeto obligado, con las modificaciones de cuando menos los últimos tres años, en la que se incluya el número total de plazas del personal de base, del personal de confianza y las vacantes.</a></p>
-						<p>f) <a href="javascript:mostrar10();">Las remuneraciones mensuales por puesto, incluidas todas las prestaciones, estímulos o compensaciones.</a></p>
+						<p>f) <a href="javascript:mostrar10();">Las remuneraciones mensuales por puesto, incluidas todas las prestaciones, estímulos o compensaciones. ↓↑</a></p>
 							<div id="flotante10" style="display:none;">
 								<br>
 									<li><a href="docs\art-8-fracc-V\f)\PRIMERA QUINCENA DE MARZO DEL 2016.xlsx">Primera Quincena de Marzo del 2016</a></li>
@@ -610,10 +605,10 @@
 							</div>
 						<p>g) Las nóminas completas del sujeto obligado en las que se incluya las gratificaciones, primas, comisiones, dietas y estímulos, de cuando menos los últimos tres años, y en su caso, con sistema de búsqueda.</a></p>
 						<p>h) <a href="docs\art-8-fracc-V\h)\pensionados.xlsx">El listado de jubilados y pensionados y el monto que reciben.</a></p>
-						<p>i) <a href="javascript:mostrar11();">Los estados financieros mensuales, de cuando menos los últimos tres años.</a></p>
+						<p>i) <a href="javascript:mostrar11();">Los estados financieros mensuales, de cuando menos los últimos tres años. ↓↑</a></p>
 							<div id="flotante11" style="display:none;">
 								<br>
-									<li><a href="javascript:mostrar12();">2012</a></li>
+									<li><a href="javascript:mostrar12();">2012 ↓↑</a></li>
 										<div id="flotante12" style="display:none;">
 											<br>
 											<ul>
@@ -631,7 +626,7 @@
 												<li type="circle"><a href="docs\art-8-fracc-V\i)\2012\DICIEMBRE 2012">Diciembre</a></li>
 											</ul>
 										</div>
-									<li><a href="javascript:mostrar13();">2013</a></li>
+									<li><a href="javascript:mostrar13();">2013 ↓↑</a></li>
 										<div id="flotante13" style="display:none;">
 											<br>
 											<ul>
@@ -649,7 +644,7 @@
 												<li type="circle"><a href="docs\art-8-fracc-V\i)\2013\DICIEMBRE">Diciembre</a></li>
 											</ul>
 										</div>
-									<li><a href="javascript:mostrar14();">2014</a></li>
+									<li><a href="javascript:mostrar14();">2014 ↓↑</a></li>
 										<div id="flotante14" style="display:none;">
 											<br>
 											<ul>
@@ -667,7 +662,7 @@
 												<li type="circle"><a href="docs\art-8-fracc-V\i)\2014\DICIEMBRE">Diciembre</a></li>
 											</ul>
 										</div>
-									<li><a href="javascript:mostrar15();">2015</a></li>
+									<li><a href="javascript:mostrar15();">2015 ↓↑</a></li>
 										<div id="flotante15" style="display:none;">
 											<br>
 											<ul>
@@ -686,7 +681,7 @@
 											</ul>
 										</div>
 							</div>
-						<p>j) <a href="javascript:mostrar16();">Los gastos de comunicación social, de cuando menos los últimos tres años, donde se señale cuando menos la fecha, monto y partida de la erogación, responsable directo de la autorización de la contratación, denominación del medio de comunicación contratado, descripción del servicio contratado, justificación y relación con alguna función o servicio públicos.</a></p>
+						<p>j) <a href="javascript:mostrar16();">Los gastos de comunicación social, de cuando menos los últimos tres años, donde se señale cuando menos la fecha, monto y partida de la erogación, responsable directo de la autorización de la contratación, denominación del medio de comunicación contratado, descripción del servicio contratado, justificación y relación con alguna función o servicio públicos. ↓↑</a></p>
 							<div id="flotante16" style="display:none;">
 								<br>
 								<li><a href="docs\art-8-fracc-V\j)\2012.pdf">2012</a></li>
@@ -704,7 +699,7 @@
 						<p>p) La información sobre concursos por invitación y licitaciones públicas en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años.</a></p>
 						<p>q) El nombre, denominación o razón social y clave del Registro Federal de Contribuyentes de quienes se les hubiera cancelado o condonado algún crédito fiscal, los montos respectivos, así como la información estadística sobre las exenciones previstas en las disposiciones fiscales.</a></p>
 						<p>r) Los inventarios de bienes muebles e inmuebles del sujeto obligado, de cuando menos los últimos tres años, donde se señale cuando menos la descripción, el valor, el régimen jurídico, y el uso o afectación del bien.</a></p>
-						<p>s) <a href="javascript:mostrar17();">Los gastos de representación, viáticos y viajes oficiales, su costo, itinerario, agenda y resultados.</a></p>
+						<p>s) <a href="javascript:mostrar17();">Los gastos de representación, viáticos y viajes oficiales, su costo, itinerario, agenda y resultados. ↓↑</a></p>
 							<div id="flotante17" style="display:none;">
 								<br>
 								<li><a href="docs\art-8-fracc-V\s)\2012.pdf">2012</a></li>
@@ -713,7 +708,7 @@
 								<li><a href="docs\art-8-fracc-V\s)\2015.pdf">2015</a></li>
 								<li><a href="docs\art-8-fracc-V\s)\2016.pdf">2016</a></li>
 							</div>
-						<p>t) <a href="javascript:mostrar18();">Las concesiones, licencias, permisos o autorizaciones otorgadas de los últimos tres años.</a></p>
+						<p>t) <a href="javascript:mostrar18();">Las concesiones, licencias, permisos o autorizaciones otorgadas de los últimos tres años. ↓↑</a></p>
 							<div id="flotante18" style="display:none;">
 								<br>
 								<li><a href="docs\art-8-fracc-V\t)\licencia 2013.xls">Licencia 2013</a></li>
@@ -737,7 +732,7 @@
 					<div class="panel-body-min">
 						<p>a) Las funciones públicas que realiza el sujeto obligado, donde se señale cuando menos el fundamento legal, la descripción de la función pública, así como los recursos materiales, humanos y financieros asignados para la realización de la función pública.</a></p>
 						<p>b) Los servicios públicos que presta el sujeto obligado, donde se señale cuando menos la descripción y cobertura del servicio público. los recursos materiales, humanos y financieros asignados para la prestación del servicio público, y el número y tipo de beneficiarios directos e indirectos del servicio público.</a></p>
-						<p>c) <a href="javascript:mostrar19();">Las obras públicas que realiza el sujeto obligado, de cuando menos los últimos tres años, donde se señale cuando menos la descripción y ubicación de la obra; el ejecutor y supervisor de la obra; el costo inicial y final; la superficie construida por metros cuadrados; costo por metro cuadrado; su relación con los instrumentos de planeación del desarrollo, y el número y tipo de beneficiarios directos e indirectos de la obra.</a></p>
+						<p>c) <a href="javascript:mostrar19();">Las obras públicas que realiza el sujeto obligado, de cuando menos los últimos tres años, donde se señale cuando menos la descripción y ubicación de la obra; el ejecutor y supervisor de la obra; el costo inicial y final; la superficie construida por metros cuadrados; costo por metro cuadrado; su relación con los instrumentos de planeación del desarrollo, y el número y tipo de beneficiarios directos e indirectos de la obra. ↓↑</a></p>
 							<div id="flotante19" style="display:none;">
 								<br>
 								<li><a href="docs\art-8-fracc-VI\c)\obras 2012.xlsx"> Obras 2012</a></li>
@@ -745,7 +740,7 @@
 								<li><a href="docs\art-8-fracc-VI\c)\obras 2014.xlsx"> Obras 2014</a></li>
 								<li><a href="docs\art-8-fracc-VI\c)\obras 2015.xlsx"> Obras 2015</a></li>
 							</div>
-						<p>d) <a href="javascript:mostrar20();">Los programas sociales que aplica el sujeto obligado, de cuando menos los últimos tres años, donde se señale cuando menos los objetivos, metas, presupuesto y reglas de operación del programa; los requisitos, trámites y formatos para ser beneficiario; la entidad pública ejecutora, el responsable directo, número de personal que lo aplica y el costo de operación del programa; el padrón de beneficiarios del programa, y la medición de avances de la ejecución del gasto, y el cumplimiento de metas y objetivos del programa, incluida la metodología empleada.</a></p>
+						<p>d) <a href="javascript:mostrar20();">Los programas sociales que aplica el sujeto obligado, de cuando menos los últimos tres años, donde se señale cuando menos los objetivos, metas, presupuesto y reglas de operación del programa; los requisitos, trámites y formatos para ser beneficiario; la entidad pública ejecutora, el responsable directo, número de personal que lo aplica y el costo de operación del programa; el padrón de beneficiarios del programa, y la medición de avances de la ejecución del gasto, y el cumplimiento de metas y objetivos del programa, incluida la metodología empleada. ↓↑</a></p>
 							 	<div id="flotante20" style="display:none;">
 							 		<br>
 									<li><a href="docs\art-8-fracc-VI\d)\Programas sociales 2013.xlsx">Programas Sociales 2013</a></li>
