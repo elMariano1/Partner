@@ -94,7 +94,7 @@ $(window).load(function() {
 <body>
 
 	<!-- Google Analytics -->
-		<?php include_once("analyticstracking.php") ?>
+		<?php include_once("analyticstracking.php")?>
 
 	<div class="header w3layouts">
 		<div class="container">
@@ -159,10 +159,10 @@ $(window).load(function() {
 
 <div class="blueberry">
 	<ul class="slides">
-		<li><img src="images/66.jpg" /></li>
-		<li><img src="images/67.jpg" /></li>
-		<li><img src="images/68.jpg" /></li>
-		<li><img src="images/69.jpg" /></li>
+		<li><a href="#"><img src="images/66.jpg" /></a></li>
+		<li><a href="#"><img src="images/67.jpg" /></a></li>
+		<li><a href="#"><img src="images/68.jpg" /></a></li>
+		<li><a href="#"><img src="images/69.jpg" /></a></li>
 	</ul>
 
 </div>
@@ -262,7 +262,7 @@ $(window).load(function() {
 			<div class="footer-w3layouts">
 				<div class="container">
 				<div class="agile-copy">
-					<p>© 2017 Degollado. All rights reserved</p>
+					<p>2017 Degollado. All rights reserved</p>
 				</div>
 				<div class="agileits-social">
 					<ul>
