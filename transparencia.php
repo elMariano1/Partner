@@ -431,15 +431,35 @@
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dependencias<b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="index.php">Agua Potable</a></li>
-									<li><a href="index.php">Catastro</a></li>
-									<li><a href="index.php">Desarrollo social y Ecología</a></li>
-									<li><a href="index.php">Desarrollo Social</a></li>
-									<li><a href="index.php">Educación y Cultura</a></li>
-									<li><a href="index.php">Hacienda Municipal</a></li>
-									<li><a href="index.php">Obras Públicas</a></li>
-									<li><a href="index.php">Registro Civil</a></li>
-									<li><a href="index.php">Poder Joven</a></li>
+									<li><a href="index.php">SIAPADEG</a></li>
+									<li><a href="index.php">Dir. Catastro</a></li>
+									<li><a href="index.php">Dir. Desarrollo rural y Ecología</a></li>
+									<li><a href="index.php">Dir. Desarrollo Social</a></li>
+									<li><a href="index.php">Dir. Educación y Cultura</a></li>
+									<li><a href="index.php">Dir. Hacienda Municipal</a></li>
+									<li><a href="index.php">Dir. Obras Públicas</a></li>
+									<li><a href="index.php">Dir. Registro Civil</a></li>
+									<li><a href="index.php">Dir. Poder Joven</a></li>
+									<li><a href="index.php">Dir. Promocion económica y turismo</a></li>
+									<li><a href="index.php">Tesoreria</a></li>
+									<li><a href="index.php">Secretaria General</a></li>
+									<li><a href="index.php">Dir. Despacho del Presidente</a></li>
+									<li><a href="index.php">Dir. Seguridad Publica</a></li>
+									<li><a href="index.php">Sindicatura</a></li>
+									<li><a href="index.php">Dir. Vialida de tránsito</a></li>
+									<li><a href="index.php">Dir. Comunicación Social</a></li>
+									<li><a href="index.php">Juez municipal</a></li>
+									<li><a href="index.php">Depto. Parques y Jardines</a></li>
+									<li><a href="index.php">Dir. Urbanización</a></li>
+									<li><a href="index.php">Dir. Reglamentos</a></li>
+									<li><a href="index.php">Contraloría</a></li>
+									<li><a href="index.php">Oficialia Mayor y Provedutria	</a></li>
+									<li><a href="index.php">Dir. Informatica</a></li>
+									<li><a href="index.php">Instituto de la mujer</a></li>
+									<li><a href="index.php">Dir. Rastro y mercado municipal</a></li>
+									<li><a href="index.php">Sistema DIF Degollado</a></li>
+									<li><a href="index.php">Dir. Protección civil</a></li>
+									<li><a href="index.php">Panteones</a></li>
 								</ul>
 							</li>
 						</ul>
