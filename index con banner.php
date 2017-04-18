@@ -21,6 +21,75 @@
 <link href="//fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
 <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 -->
+
+<!-- blueberry -->
+
+<link rel="stylesheet" href="css/blueberry.css" />
+<style type="text/css">
+
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+body {
+	background: #f0f0f0;
+	font: 14px/20px Arial, San-Serif;
+	color: #404040;
+}
+a { color: #264c99; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+h1,h2,h3,h4,p { margin-bottom: 20px; }
+h1 {
+	font-size: 48px;
+	line-height: 60px;
+	color: #ffffff;
+	text-transform: lowercase;
+}
+h2, h3 {
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 40px;
+	color: #808080;
+}
+h3 { font-size: 18px; color: #404040; }
+h5 { font-weight: bold; font-size: 14px; color: #000; }
+
+#header {
+	height: 60px;
+	padding-top: 20px; padding-bottom: 20px;
+	text-align: center;
+	background: #405580;
+}
+#header h1 {
+	margin: 0 auto;
+	min-width: 740px;
+	max-width: 1140px;
+}
+#doc { margin: 40px 0; }
+#content {
+	margin: 0 auto;
+	min-width: 740px;
+	max-width: 1140px;
+}
+
+.blueberry { max-width: 960px; }
+
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="js/jquery.blueberry.js"></script>
+
+<script>
+$(window).load(function() {
+	$('.blueberry').blueberry();
+});
+</script>
+
+<!--  Algo -->
+
+
 </head>
 <body>
 
@@ -46,67 +115,69 @@
 								<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Gobierno<b class="caret"></b></a>
 									<ul class="dropdown-menu agile_short_dropdown">
-										<li><a href="#">Presidencia Municipal</a></li>
-										<li><a href="#">H. Ayuntamiento</a></li>
-										<li><a href="#">Comiciones Edilicias</a></li>
-										<li><a href="#">Reglamentos</a></li>
-										<li><a href="#">Organigrama</a></li>
+										<li><a href="index.php">Presidencia Municipal</a></li>
+										<li><a href="index.php">H. Ayuntamiento</a></li>
+										<li><a href="index.php">Comiciones Edilicias</a></li>
+										<li><a href="index.php">Reglamentos</a></li>
+										<li><a href="index.php">Organigrama</a></li>
 									</ul>
 								</li>
 								<li class="active"><a href="transparencia.php">Transparencia</a></li>
-								<li><a href="#">Noticias</a></li>
-								<li><a href="#">Tramites y Servicios</a></li>
+								<li><a href="index.php">Noticias</a></li>
+								<li><a href="index.php">Tramites y Servicios</a></li>
 								<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dependencias<b class="caret"></b></a>
 									<ul class="dropdown-menu agile_short_dropdown">
-										<li><a href="#">Depto. Parques y Jardines</a></li>
-										<li><a href="#">Dir. Catastro</a></li>
-										<li><a href="#">Dir. Comunicación Social</a></li>
-										<li><a href="#">Dir. Desarrollo Rural y Ecología</a></li>
-										<li><a href="#">Dir. Desarrollo Social</a></li>
-										<li><a href="#">Dir. Despacho del Presidente</a></li>
-										<li><a href="#">Dir. Educación y Cultura</a></li>
-										<li><a href="#">Dir. Hacienda Municipal</a></li>
-										<li><a href="#">Dir. Informatica</a></li>
-										<li><a href="#">Dir. Obras Públicas</a></li>
-										<li><a href="#">Dir. Poder Joven</a></li>
-										<li><a href="#">Dir. Promocion económica y turismo</a></li>
-										<li><a href="#">Dir. Protección civil</a></li>
-										<li><a href="#">Dir. Rastro y mercado municipal</a></li>
-										<li><a href="#">Dir. Registro Civil</a></li>
-										<li><a href="#">Dir. Reglamentos</a></li>
-										<li><a href="#">Dir. Seguridad Publica</a></li>
-										<li><a href="#">Dir. Urbanización</a></li>
-										<li><a href="#">Dir. Vialida de tránsito</a></li>
-										<li><a href="#">Contraloría</a></li>
-										<li><a href="#">Instituto de la mujer</a></li>
-										<li><a href="#">Juez municipal</a></li>
-										<li><a href="#">Oficialia Mayor y Provedutria</a></li>
-										<li><a href="#">Panteones</a></li>
-										<li><a href="#">Secretaria General</a></li>
-										<li><a href="#">SIAPADEG</a></li>
-										<li><a href="#">Sindicatura</a></li>
-										<li><a href="#">Sistema DIF Degollado</a></li>
-										<li><a href="#">Tesoreria</a></li>
+										<li><a href="index.php">SIAPADEG</a></li>
+										<li><a href="index.php">Dir. Catastro</a></li>
+										<li><a href="index.php">Dir. Desarrollo rural y Ecología</a></li>
+										<li><a href="index.php">Dir. Desarrollo Social</a></li>
+										<li><a href="index.php">Dir. Educación y Cultura</a></li>
+										<li><a href="index.php">Dir. Hacienda Municipal</a></li>
+										<li><a href="index.php">Dir. Obras Públicas</a></li>
+										<li><a href="index.php">Dir. Registro Civil</a></li>
+										<li><a href="index.php">Dir. Poder Joven</a></li>
+										<li><a href="index.php">Dir. Promocion económica y turismo</a></li>
+										<li><a href="index.php">Tesoreria</a></li>
+										<li><a href="index.php">Secretaria General</a></li>
+										<li><a href="index.php">Dir. Despacho del Presidente</a></li>
+										<li><a href="index.php">Dir. Seguridad Publica</a></li>
+										<li><a href="index.php">Sindicatura</a></li>
+										<li><a href="index.php">Dir. Vialida de tránsito</a></li>
+										<li><a href="index.php">Dir. Comunicación Social</a></li>
+										<li><a href="index.php">Juez municipal</a></li>
+										<li><a href="index.php">Depto. Parques y Jardines</a></li>
+										<li><a href="index.php">Dir. Urbanización</a></li>
+										<li><a href="index.php">Dir. Reglamentos</a></li>
+										<li><a href="index.php">Contraloría</a></li>
+										<li><a href="index.php">Oficialia Mayor y Provedutria	</a></li>
+										<li><a href="index.php">Dir. Informatica</a></li>
+										<li><a href="index.php">Instituto de la mujer</a></li>
+										<li><a href="index.php">Dir. Rastro y mercado municipal</a></li>
+										<li><a href="index.php">Sistema DIF Degollado</a></li>
+										<li><a href="index.php">Dir. Protección civil</a></li>
+										<li><a href="index.php">Panteones</a></li>
 									</ul>
 								</li>
 							</ul>
+						</nav>
+					</div>
+				</nav>
+			</div>
+		</div>
 
-					</nav>
-				</div>
-			</nav>
-		</div>
-	</div>
-<!-- banner -->
-	<div class="w3-banner">
-		<div class="container">
-		<div class="w3l-banner-info">
-			<h3 class="w3l_head w3l_head1">Gobierno Municipal</h3><br><h2>Un gobierno que trabaja<br></h2>
-			<p>Más cerca de tí</p>
-		</div>
-		</div>
-	</div>
-<!-- //banner -->
+ <!-- banner -->
+
+<div class="blueberry">
+	<ul class="slides">
+		<li><a href="#"><img src="images/66.jpg" /></a></li>
+		<li><a href="#"><img src="images/67.jpg" /></a></li>
+		<li><a href="#"><img src="images/68.jpg" /></a></li>
+		<li><a href="#"><img src="images/69.jpg" /></a></li>
+	</ul>
+
+</div>
+
 <!-- services -->
 <div class="services">
 		<div class="container">
@@ -202,7 +273,7 @@
 			<div class="footer-w3layouts">
 				<div class="container">
 				<div class="agile-copy">
-					<p>© 2017 Degollado. All rights reserved</p>
+					<p>2017 Degollado. All rights reserved</p>
 				</div>
 				<div class="agileits-social">
 					<ul>

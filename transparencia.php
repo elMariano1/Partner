@@ -418,48 +418,48 @@
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Gobierno<b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="index.php">Presidencia Municipal</a></li>
-									<li><a href="index.php">H. Ayuntamiento</a></li>
-									<li><a href="index.php">Comiciones Edilicias</a></li>
-									<li><a href="index.php">Reglamentos</a></li>
-									<li><a href="index.php">Organigrama</a></li>
+									<li><a href="#">Presidencia Municipal</a></li>
+									<li><a href="#">H. Ayuntamiento</a></li>
+									<li><a href="#">Comiciones Edilicias</a></li>
+									<li><a href="#">Reglamentos</a></li>
+									<li><a href="#">Organigrama</a></li>
 								</ul>
 							</li>
 							<li class="active"><a href="transparencia.php">Transparencia</a></li>
-							<li><a href="index.php">Noticias</a></li>
-							<li><a href="index.php">Tramites y Servicios</a></li>
+							<li><a href="#">Noticias</a></li>
+							<li><a href="#">Tramites y Servicios</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dependencias<b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="index.php">SIAPADEG</a></li>
-									<li><a href="index.php">Dir. Catastro</a></li>
-									<li><a href="index.php">Dir. Desarrollo rural y Ecología</a></li>
-									<li><a href="index.php">Dir. Desarrollo Social</a></li>
-									<li><a href="index.php">Dir. Educación y Cultura</a></li>
-									<li><a href="index.php">Dir. Hacienda Municipal</a></li>
-									<li><a href="index.php">Dir. Obras Públicas</a></li>
-									<li><a href="index.php">Dir. Registro Civil</a></li>
-									<li><a href="index.php">Dir. Poder Joven</a></li>
-									<li><a href="index.php">Dir. Promocion económica y turismo</a></li>
-									<li><a href="index.php">Tesoreria</a></li>
-									<li><a href="index.php">Secretaria General</a></li>
-									<li><a href="index.php">Dir. Despacho del Presidente</a></li>
-									<li><a href="index.php">Dir. Seguridad Publica</a></li>
-									<li><a href="index.php">Sindicatura</a></li>
-									<li><a href="index.php">Dir. Vialida de tránsito</a></li>
-									<li><a href="index.php">Dir. Comunicación Social</a></li>
-									<li><a href="index.php">Juez municipal</a></li>
-									<li><a href="index.php">Depto. Parques y Jardines</a></li>
-									<li><a href="index.php">Dir. Urbanización</a></li>
-									<li><a href="index.php">Dir. Reglamentos</a></li>
-									<li><a href="index.php">Contraloría</a></li>
-									<li><a href="index.php">Oficialia Mayor y Provedutria	</a></li>
-									<li><a href="index.php">Dir. Informatica</a></li>
-									<li><a href="index.php">Instituto de la mujer</a></li>
-									<li><a href="index.php">Dir. Rastro y mercado municipal</a></li>
-									<li><a href="index.php">Sistema DIF Degollado</a></li>
-									<li><a href="index.php">Dir. Protección civil</a></li>
-									<li><a href="index.php">Panteones</a></li>
+									<li><a href="#">Depto. Parques y Jardines</a></li>
+									<li><a href="#">Dir. Catastro</a></li>
+									<li><a href="#">Dir. Comunicación Social</a></li>
+									<li><a href="#">Dir. Desarrollo Rural y Ecología</a></li>
+									<li><a href="#">Dir. Desarrollo Social</a></li>
+									<li><a href="#">Dir. Despacho del Presidente</a></li>
+									<li><a href="#">Dir. Educación y Cultura</a></li>
+									<li><a href="#">Dir. Hacienda Municipal</a></li>
+									<li><a href="#">Dir. Informatica</a></li>
+									<li><a href="#">Dir. Obras Públicas</a></li>
+									<li><a href="#">Dir. Poder Joven</a></li>
+									<li><a href="#">Dir. Promocion económica y turismo</a></li>
+									<li><a href="#">Dir. Protección civil</a></li>
+									<li><a href="#">Dir. Rastro y mercado municipal</a></li>
+									<li><a href="#">Dir. Registro Civil</a></li>
+									<li><a href="#">Dir. Reglamentos</a></li>
+									<li><a href="#">Dir. Seguridad Publica</a></li>
+									<li><a href="#">Dir. Urbanización</a></li>
+									<li><a href="#">Dir. Vialida de tránsito</a></li>
+									<li><a href="#">Contraloría</a></li>
+									<li><a href="#">Instituto de la mujer</a></li>
+									<li><a href="#">Juez municipal</a></li>
+									<li><a href="#">Oficialia Mayor y Provedutria</a></li>
+									<li><a href="#">Panteones</a></li>
+									<li><a href="#">Secretaria General</a></li>
+									<li><a href="#">SIAPADEG</a></li>
+									<li><a href="#">Sindicatura</a></li>
+									<li><a href="#">Sistema DIF Degollado</a></li>
+									<li><a href="#">Tesoreria</a></li>
 								</ul>
 							</li>
 						</ul>

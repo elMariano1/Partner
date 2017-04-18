@@ -5309,34 +5309,27 @@ a.list-group-item-danger.active:focus {
   padding: 15px;
   background: #f4f4f4;
 }
-.panel-body p{
-  color: #000;
-  font-size: 1em;
-}
 .panel-body a{
   color: #56a1bc;
-  text-decoration: none;
 }
 .panel-body a:hover{
   color: #a5a5a5;
   font-style: oblique;
-  text-decoration: none;
+  text-decoration: underline;
 }
-panel-body a:visited{
-  color: rgb(250, 48, 27);
+.panel-body-min {
+  padding: 15px;
+  /*height: 300px;*/
+  overflow-y: auto;
+  background: #f4f4f4;
 }
-.panel-body li{
-  font-size: .85em;
+.panel-body-min a{
+  color: #56a1bc;
 }
-.panel-body li a{
-  color: #3ca5e8;
-  text-decoration: none;
-}
-.panel-body li a:hover{
-  color: #494949;
+.panel-body-min a:hover{
+  color: #a5a5a5;
   font-style: oblique;
-  text-decoration: none;
-  font-size: 1.25em;
+  text-decoration: underline;
 }
 .panel-heading {
   padding: 10px 15px;
@@ -5352,14 +5345,6 @@ panel-body a:visited{
   margin-bottom: 0;
   font-size: 16px;
   color: inherit;
-  display: inline;
-}
-.ver-mas{
-  color: #0400c2;
-  display: inline;
-}
-.tabulacion{
-  display: inline;
 }
 .panel-title > a,
 .panel-title > small,
