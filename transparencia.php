@@ -430,7 +430,7 @@
 							<li><a href="#">Tramites y Servicios</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dependencias<b class="caret"></b></a>
-								<ul class="dropdown-menu agile_short_dropdown">
+								<ul class="dropdown-menu-depen agile_short_dropdown">
 									<li><a href="#">Depto. Parques y Jardines</a></li>
 									<li><a href="#">Dir. Catastro</a></li>
 									<li><a href="#">Dir. Comunicación Social</a></li>
@@ -482,7 +482,7 @@
 			<div class="row animated wow fadeInRight" data-wow-duration="1000ms">
 				<div class="panel panel-success">
 					<div class="panel-heading">
-					<a href="javascript:mostrar21();" style="text-decoration:none; color:rgb(51, 122, 183);" ><h3 class="panel-title">1. Información necesaria para el ejercicio del derecho a la información pública.     </h3><p class="ver-mas">(Ver más)</p></a>
+					<a href="javascript:mostrar21();" style="text-decoration:none; color:rgb(51, 122, 183);"><h3 class="panel-title">1. Información necesaria para el ejercicio del derecho a la información pública.    </h3><p class="ver-mas">(Ver más)</p></a>
 					</div>
           <div id="flotante21" style="display: none;">
 					<div class="panel-body">
@@ -953,6 +953,71 @@
 		</div>
 	</div>
 <!-- //services -->
+
+<!-- footer -->
+	<div class="agileinfo_footer_bottom">
+			<div class="container">
+				<div class="col-md-4 agileinfo_footer_bottom_grid">
+					<h3>Comunicate con nosotros</h3>
+				<ul>
+					<li><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Defensores 48, Centro, 47980, Degollado, Jalisco</li>
+					<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:info@example.com">administracion@degollado.com</a></li>
+					<li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>01-(345)-937-01-01</li>
+				</ul>
+
+				</div>
+
+				<div class="col-md-4 agileinfo_footer_bottom_grid">
+					<h3>Ultimas Publicaciones</h3>
+				<ul>
+				</ul>
+
+				</div>
+
+				<div class="col-md-4 agileinfo_footer_bottom_grid">
+					<h3>Lugares de Interes</h3>
+					<div class="flickr-grids">
+						<div class="flickr-grid agileits_w3layouts_flickr">
+							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
+						</div>
+						<div class="flickr-grid  agileits_w3layouts_flickr">
+							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
+						</div>
+						<div class="flickr-grid  agileits_w3layouts_flickr">
+							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
+						</div>
+						<div class="clearfix"> </div>
+
+						<div class="flickr-grid  agileits_w3layouts_flickr">
+							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
+						</div>
+						<div class="flickr-grid  agileits_w3layouts_flickr">
+							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
+						</div>
+						<div class="flickr-grid  agileits_w3layouts_flickr">
+							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+			<div class="footer-w3layouts">
+				<div class="container">
+				<div class="agile-copy">
+					<p>2017 Degollado. All rights reserved</p>
+				</div>
+				<div class="agileits-social">
+					<ul>
+							<li><a href="https://www.facebook.com/GOBDEGOJAL/?fref=ts"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://twitter.com/Gob_Degollado"><i class="fa fa-twitter"></i></a></li>
+						</ul>
+				</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+<!-- //footer -->
 
 <!-- for bootstrap working -->
 	<script src="js/bootstrap.js"></script>
