@@ -21,91 +21,143 @@
 <link href="//fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
 <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 -->
+
+<!-- Links para FlexSlider -->
+		<link rel="stylesheet" href="slider-inicio/slider.css" type="text/css">
+		<!--
+		<script src="slider-inicio/jquery.min.js"></script>
+		-->
+		<script src="slider-inicio/jquery.flexslider.js"></script>
+		<script type="text/javascript" charset="utf-8">
+			$(window).load(function() {
+				$('.slider').flexslider({
+					touch: true,
+					pauseOnHover: false,
+					animation: "fade",
+					keyboard: true,
+				});
+			});
+		</script>
+		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<!-- //Links para FlexSlider -->
+
 </head>
 <body>
 
 	<!-- Google Analytics -->
 		<?php include_once("analyticstracking.php") ?>
 
-	<div class="header w3layouts">
-		<div class="container">
-			<nav class="navbar navbar-default">
-				<div class="navbar-header navbar-left">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="index.php"><img src="images/logo.png" width="100" height="100"></a>
-				</div>
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
-					<nav class="cl-effect-13" id="cl-effect-13">
-						<ul class="nav navbar-nav">
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Gobierno<b class="caret"></b></a>
-								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="#">Presidencia Municipal</a></li>
-									<li><a href="#">H. Ayuntamiento</a></li>
-									<li><a href="#">Comiciones Edilicias</a></li>
-									<li><a href="#">Reglamentos</a></li>
-									<li><a href="#">Organigrama</a></li>
-								</ul>
-							</li>
-							<li class="active"><a href="transparencia.php">Transparencia</a></li>
-							<li><a href="#">Noticias</a></li>
-							<li><a href="#">Tramites y Servicios</a></li>
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dependencias<b class="caret"></b></a>
-								<ul class="dropdown-menu-depen agile_short_dropdown">
-									<li><a href="#">Depto. Parques y Jardines</a></li>
-									<li><a href="#">Dir. Catastro</a></li>
-									<li><a href="#">Dir. Comunicación Social</a></li>
-									<li><a href="#">Dir. Desarrollo Rural y Ecología</a></li>
-									<li><a href="#">Dir. Desarrollo Social</a></li>
-									<li><a href="#">Dir. Despacho del Presidente</a></li>
-									<li><a href="#">Dir. Educación y Cultura</a></li>
-									<li><a href="#">Dir. Hacienda Municipal</a></li>
-									<li><a href="#">Dir. Informatica</a></li>
-									<li><a href="#">Dir. Obras Públicas</a></li>
-									<li><a href="#">Dir. Poder Joven</a></li>
-									<li><a href="#">Dir. Promocion económica y turismo</a></li>
-									<li><a href="#">Dir. Protección civil</a></li>
-									<li><a href="#">Dir. Rastro y mercado municipal</a></li>
-									<li><a href="#">Dir. Registro Civil</a></li>
-									<li><a href="#">Dir. Reglamentos</a></li>
-									<li><a href="#">Dir. Seguridad Publica</a></li>
-									<li><a href="#">Dir. Urbanización</a></li>
-									<li><a href="#">Dir. Vialida de tránsito</a></li>
-									<li><a href="#">Contraloría</a></li>
-									<li><a href="#">Instituto de la mujer</a></li>
-									<li><a href="#">Juez municipal</a></li>
-									<li><a href="#">Oficialia Mayor y Provedutria</a></li>
-									<li><a href="#">Panteones</a></li>
-									<li><a href="#">Secretaria General</a></li>
-									<li><a href="#">SIAPADEG</a></li>
-									<li><a href="#">Sindicatura</a></li>
-									<li><a href="#">Sistema DIF Degollado</a></li>
-									<li><a href="#">Tesoreria</a></li>
-								</ul>
-							</li>
-						</ul>
-					</nav>
-				</div>
-			</nav>
+		<div class="header w3layouts">
+			<div class="container">
+				<nav class="navbar navbar-default">
+					<div class="navbar-header navbar-left">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="index.php"><img src="images/logo.png" width="100" height="100"></a>
+					</div>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+						<nav class="cl-effect-13" id="cl-effect-13">
+							<ul class="nav navbar-nav">
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Gobierno<b class="caret"></b></a>
+									<ul class="dropdown-menu agile_short_dropdown">
+										<li><a href="#">Presidencia Municipal</a></li>
+										<li><a href="#">H. Ayuntamiento</a></li>
+										<li><a href="#">Comiciones Edilicias</a></li>
+										<li><a href="#">Reglamentos</a></li>
+										<li><a href="#">Organigrama</a></li>
+									</ul>
+								</li>
+								<li class="active"><a href="transparencia.php">Transparencia</a></li>
+								<li><a href="#">Noticias</a></li>
+								<li><a href="#">Tramites y Servicios</a></li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dependencias<b class="caret"></b></a>
+									<ul class="dropdown-menu-depen agile_short_dropdown">
+										<li><a href="#">Depto. Parques y Jardines</a></li>
+										<li><a href="#">Dir. Catastro</a></li>
+										<li><a href="#">Dir. Comunicación Social</a></li>
+										<li><a href="#">Dir. Desarrollo Rural y Ecología</a></li>
+										<li><a href="#">Dir. Desarrollo Social</a></li>
+										<li><a href="#">Dir. Despacho del Presidente</a></li>
+										<li><a href="#">Dir. Educación y Cultura</a></li>
+										<li><a href="#">Dir. Hacienda Municipal</a></li>
+										<li><a href="#">Dir. Informatica</a></li>
+										<li><a href="#">Dir. Obras Públicas</a></li>
+										<li><a href="#">Dir. Poder Joven</a></li>
+										<li><a href="#">Dir. Promocion económica y turismo</a></li>
+										<li><a href="#">Dir. Protección civil</a></li>
+										<li><a href="#">Dir. Rastro y mercado municipal</a></li>
+										<li><a href="#">Dir. Registro Civil</a></li>
+										<li><a href="#">Dir. Reglamentos</a></li>
+										<li><a href="#">Dir. Seguridad Publica</a></li>
+										<li><a href="#">Dir. Urbanización</a></li>
+										<li><a href="#">Dir. Vialida de tránsito</a></li>
+										<li><a href="#">Contraloría</a></li>
+										<li><a href="#">Instituto de la mujer</a></li>
+										<li><a href="#">Juez municipal</a></li>
+										<li><a href="#">Oficialia Mayor y Provedutria</a></li>
+										<li><a href="#">Panteones</a></li>
+										<li><a href="#">Secretaria General</a></li>
+										<li><a href="#">SIAPADEG</a></li>
+										<li><a href="#">Sindicatura</a></li>
+										<li><a href="#">Sistema DIF Degollado</a></li>
+										<li><a href="#">Tesoreria</a></li>
+									</ul>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</nav>
+			</div>
 		</div>
-	</div>
 <!-- banner -->
-	<div class="w3-banner">
-		<div class="container">
-		<div class="w3l-banner-info">
-			<h3 class="w3l_head w3l_head1">Gobierno Municipal</h3><br><h2>Un gobierno que trabaja<br></h2>
-			<p>Más cerca de tí</p>
+	<!--
+		<div class="w3-banner">
+			<div class="container">
+			<div class="w3l-banner-info">
+				<h3 class="w3l_head w3l_head1">Gobierno Municipal</h3><br><h2>Un gobierno que trabaja<br></h2>
+				<p>Más cerca de tí</p>
+			</div>
+			</div>
 		</div>
-		</div>
-	</div>
+	-->
 <!-- //banner -->
+
+<div class="slider">
+	<ul class="slides">
+		<li>
+			<img src="slider-inicio/images/1.jpg" alt="">
+			<section class="flex-caption">
+				<p>Inauguración</p>
+			</section>
+		</li>
+		<li>
+			<img src="slider-inicio/images/2.jpg" alt="">
+			<section class="flex-caption">
+				<p>"Ruta Plastica Instantes"</p>
+			</section>
+		</li>
+		<li>
+			<img src="slider-inicio/images/3.jpg" alt="">
+			<section class="flex-caption">
+				<p>Presidente en Buenos Aires</p>
+			</section>
+		</li>
+		<li>
+			<img src="slider-inicio/images/4.jpg" alt="">
+			<section class="flex-caption">
+				<p>Reunión de Trabajo Para el Fomento al Desarrollo Rural</p>
+			</section>
+		</li>
+	</ul>
+</div>
+
 <!-- services -->
 <div class="services">
 		<div class="container">
@@ -114,7 +166,7 @@
 				<div class="col-md-4 w3_agileits_services_grid">
 					<div class="w3_agileits_services_grid_agile">
 						<div>
-							<i aria-hidden="true"><a href="#"><img src="images/infomexlogo.png" width="105" height="105"></a></i>
+							<i><a href="http://www.infomexjalisco.org.mx"><img src="images/infomexlogo.png" width="105" height="105"></a></i>
 						</div>
 						<h3>Infomex Jalisco</h3>
 					</div>
@@ -124,13 +176,13 @@
 						<div>
 							<i><a href="https://www.itei.org.mx/v4/"><img src="images/iteilogo.png" width="150" height="100"></a></i>
 						</div>
-						<h3>itei</h3>
+						<h3>ITEI</h3>
 					</div>
 				</div>
 				<div class="col-md-4 w3_agileits_services_grid">
 					<div class="w3_agileits_services_grid_agile">
 						<div>
-							<i><a href="#"><img src="images/logogob.png" width="100" height="100"></a></i>
+							<i><a href="http://www.jalisco.gob.mx"><img src="images/logogob.png" width="100" height="100"></a></i>
 						</div>
 						<h3>Gobierno del Estado de Jalisco</h3>
 					</div>
@@ -138,7 +190,7 @@
 				<div class="col-md-4 w3_agileits_services_grid">
 					<div class="w3_agileits_services_grid_agile">
 						<div>
-							<i><a href="#"><img src="images/triblogo.png" width="100" height="100"></a></i>
+							<i><a href="http://www.triejal.gob.mx"><img src="images/triblogo.png" width="100" height="100"></a></i>
 						</div>
 						<h3>Tribunal Electoral</h3>
 						<p>del estado de Jalisco</p>

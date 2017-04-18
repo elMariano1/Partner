@@ -212,7 +212,7 @@
 	if(clic16==1){
 	div = document.getElementById('flotante16');
 			 div.style.display = '';
-	clic15 = clic16 + 1;
+	clic16 = clic16 + 1;
 	} else{
 		div = document.getElementById('flotante16');
 				div.style.display = 'none';

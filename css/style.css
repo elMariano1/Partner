@@ -751,7 +751,7 @@ ul.dropdown-menu {
 .agileinfo_footer_bottom{
 	background: #3380af;
     font-style: normal;
-    padding: 3em 0;
+    padding: 1em 0;
     margin:  0;
 }
 .agileinfo_footer_bottom_grid h3 {
@@ -1018,7 +1018,7 @@ ul.tag2:last-child {
 }
 /*-- footer --*/
 .footer-w3layouts {
-    padding: 1em 0;
+    padding: 0.7em 0;
     background: #000f19;
 }
 .footer-w3layouts p{
