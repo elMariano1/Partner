@@ -24,9 +24,9 @@
 
 <!-- Links para FlexSlider -->
 		<link rel="stylesheet" href="slider-inicio/slider.css" type="text/css">
-
+	<!--
 		<script src="slider-inicio/jquery.min.js"></script>
-
+	-->
 		<script src="slider-inicio/jquery.flexslider.js"></script>
 		<script type="text/javascript" charset="utf-8">
 			$(window).load(function() {
@@ -57,7 +57,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="index.php"><img src="images/logo.png" width="100" height="100"></a>
+						<a class="navbar-brand" href="http://degollado.gob.mx/"><img src="images/logo.png" width="100" height="100"></a>
 					</div>
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
