@@ -472,7 +472,36 @@
 <!-- services -->
 <div class="services">
 		<div class="container">
-			<h3 class="w3l_head w3l_head1">Informacion fundamental</h3>
+			<h3 class="w3l_head w3l_head1">Transparecia</h3>
+
+
+						<div class="w3_agileits_services_grids2">
+							<div class="col-md-4 w3_agileits_services_grid">
+								<div class="w3_agileits_services_grid_agile">
+									<div>
+										<i><a href="#"><img src="images/logo.png" width="100" height="100"></a></i>
+									</div>
+									<h3>Gobierno Municipal</h3>
+								</div>
+							</div>
+							<div class="col-md-4 w3_agileits_services_grid">
+								<div class="w3_agileits_services_grid_agile">
+									<div>
+										<i><a href="images/dif.jpg"><img src="images/dif.jpg" width="100" height="100"></a></i>
+									</div>
+									<h3>DIF</h3>
+								</div>
+							</div>
+							<div class="col-md-4 w3_agileits_services_grid">
+								<div class="w3_agileits_services_grid_agile">
+									<div>
+										<i><a href="images/siapadeg.jpg"><img src="images/siapadeg.jpg" width="100" height="100"></a></i>
+									</div>
+									<h3>SIAPADEG</h3>
+								</div>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
 
 
 			<!--Panels-->
@@ -955,68 +984,46 @@
 <!-- //services -->
 
 <!-- footer -->
-	<div class="agileinfo_footer_bottom">
-			<div class="container">
-				<div class="col-md-4 agileinfo_footer_bottom_grid">
-					<h3>Comunicate con nosotros</h3>
-				<ul>
-					<li><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Defensores 48, Centro, 47980, Degollado, Jalisco</li>
-					<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:info@example.com">administracion@degollado.com</a></li>
-					<li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>01-(345)-937-01-01</li>
-				</ul>
-
+<div class="services">
+		<div class="container">
+			<h3 class="w3l_head w3l_head1">Información</h3>
+			<div class="w3_agileits_services_grids">
+				<div class="col-md-4 w3_agileits_services_grid">
+					<div class="w3_agileits_services_grid_agile">
+						<div>
+							<i><a href="http://www.infomexjalisco.org.mx"><img src="images/infomexlogo.png" width="105" height="105"></a></i>
+						</div>
+						<h3>Infomex Jalisco</h3>
+					</div>
 				</div>
-
-				<div class="col-md-4 agileinfo_footer_bottom_grid">
-					<h3>Ultimas Publicaciones</h3>
-				<ul>
-				</ul>
-
+				<div class="col-md-4 w3_agileits_services_grid">
+					<div class="w3_agileits_services_grid_agile">
+						<div>
+							<i><a href="https://www.itei.org.mx/v4/"><img src="images/iteilogo.png" width="150" height="100"></a></i>
+						</div>
+						<h3>ITEI</h3>
+					</div>
 				</div>
-
-				<div class="col-md-4 agileinfo_footer_bottom_grid">
-					<h3>Lugares de Interes</h3>
-					<div class="flickr-grids">
-						<div class="flickr-grid agileits_w3layouts_flickr">
-							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
+				<div class="col-md-4 w3_agileits_services_grid">
+					<div class="w3_agileits_services_grid_agile">
+						<div>
+							<i><a href="http://www.cimtra.org.mx"><img src="images/cimtra.jpg" width="100" height="100"></a></i>
 						</div>
-						<div class="flickr-grid  agileits_w3layouts_flickr">
-							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
+						<h3>CIMPTRA</h3>
+					</div>
+				</div>
+				<div class="col-md-4 w3_agileits_services_grid">
+					<div class="w3_agileits_services_grid_agile">
+						<div>
+							<i><a href="http://www.plataformadetransparencia.org.mx/"><img src="images/platafortrans.jpg" width="100" height="100"></a></i>
 						</div>
-						<div class="flickr-grid  agileits_w3layouts_flickr">
-							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
-						</div>
-						<div class="clearfix"> </div>
-
-						<div class="flickr-grid  agileits_w3layouts_flickr">
-							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
-						</div>
-						<div class="flickr-grid  agileits_w3layouts_flickr">
-							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
-						</div>
-						<div class="flickr-grid  agileits_w3layouts_flickr">
-							<a href="#"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
-						</div>
-						<div class="clearfix"> </div>
+						<h3>Plataforma Nacional de Transparencia</h3>
 					</div>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
 		</div>
-			<div class="footer-w3layouts">
-				<div class="container">
-				<div class="agile-copy">
-					<p>2017 Degollado. All rights reserved</p>
-				</div>
-				<div class="agileits-social">
-					<ul>
-							<li><a href="https://www.facebook.com/GOBDEGOJAL/?fref=ts"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="https://twitter.com/Gob_Degollado"><i class="fa fa-twitter"></i></a></li>
-						</ul>
-				</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
+	</div>
 <!-- //footer -->
 
 <!-- for bootstrap working -->

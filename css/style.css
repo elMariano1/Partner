@@ -1018,7 +1018,7 @@ ul.tag2:last-child {
 }
 /*-- footer --*/
 .footer-w3layouts {
-    padding: 0.7em 0;
+    padding-top: 0.9em;
     background: #000f19;
 }
 .footer-w3layouts p{
@@ -2541,5 +2541,4 @@ h2.typoh2{
 }
 .agileits_featured_services_grid {
     padding: 0;
-}
 }

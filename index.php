@@ -24,9 +24,9 @@
 
 <!-- Links para FlexSlider -->
 		<link rel="stylesheet" href="slider-inicio/slider.css" type="text/css">
-		<!--
+
 		<script src="slider-inicio/jquery.min.js"></script>
-		-->
+
 		<script src="slider-inicio/jquery.flexslider.js"></script>
 		<script type="text/javascript" charset="utf-8">
 			$(window).load(function() {
