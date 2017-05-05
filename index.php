@@ -35,6 +35,7 @@
 					pauseOnHover: false,
 					animation: "fade",
 					keyboard: true,
+					slideshowSpeed: 3000,
 				});
 			});
 		</script>
@@ -134,7 +135,7 @@
 		<li>
 			<img src="slider-inicio/images/1.jpg" alt="">
 			<section class="flex-caption">
-				<p>Inauguración</p>
+				<p>Degollado Jalisco</p>
 			</section>
 		</li>
 		<li>

@@ -248,7 +248,7 @@
 	if(clic19==1){
 	div = document.getElementById('flotante19');
 			 div.style.display = '';
-	clic19 = clic17 + 1;
+	clic19 = clic19 + 1;
 } else{
 		div = document.getElementById('flotante19');
 				div.style.display = 'none';
@@ -260,7 +260,7 @@
 	if(clic20==1){
 	div = document.getElementById('flotante20');
 			 div.style.display = '';
-	clic20 = clic17 + 1;
+	clic20 = clic20 + 1;
 	} else{
 		div = document.getElementById('flotante20');
 				div.style.display = 'none';
@@ -272,7 +272,7 @@
 	if(clic21==1){
 	div = document.getElementById('flotante21');
 			 div.style.display = '';
-	clic21 = clic17 + 1;
+	clic21 = clic21 + 1;
 	} else{
 		div = document.getElementById('flotante21');
 				div.style.display = 'none';
@@ -285,7 +285,7 @@
 	if(clic22==1){
 	div = document.getElementById('flotante22');
 			 div.style.display = '';
-	clic22 = clic17 + 1;
+	clic22 = clic22 + 1;
 	} else{
 		div = document.getElementById('flotante22');
 				div.style.display = 'none';
@@ -298,7 +298,7 @@
 	if(clic23==1){
 	div = document.getElementById('flotante23');
 			 div.style.display = '';
-	clic23 = clic17 + 1;
+	clic23 = clic23 + 1;
 	} else{
 		div = document.getElementById('flotante23');
 				div.style.display = 'none';
@@ -311,7 +311,7 @@
 	if(clic24==1){
 	div = document.getElementById('flotante24');
 			 div.style.display = '';
-	clic24 = clic17 + 1;
+	clic24 = clic24 + 1;
 	} else{
 		div = document.getElementById('flotante24');
 				div.style.display = 'none';
@@ -324,7 +324,7 @@
 	if(clic25==1){
 	div = document.getElementById('flotante25');
 			 div.style.display = '';
-	clic25 = clic17 + 1;
+	clic25 = clic25 + 1;
 	} else{
 		div = document.getElementById('flotante25');
 				div.style.display = 'none';
@@ -337,7 +337,7 @@
 	if(clic26==1){
 	div = document.getElementById('flotante26');
 			 div.style.display = '';
-	clic26 = clic17 + 1;
+	clic26 = clic26 + 1;
 	} else{
 		div = document.getElementById('flotante26');
 				div.style.display = 'none';
@@ -350,7 +350,7 @@
 	if(clic27==1){
 	div = document.getElementById('flotante27');
 			 div.style.display = '';
-	clic27 = clic17 + 1;
+	clic27 = clic27 + 1;
 	} else{
 		div = document.getElementById('flotante27');
 				div.style.display = 'none';
@@ -363,7 +363,7 @@
 	if(clic28==1){
 	div = document.getElementById('flotante28');
 			 div.style.display = '';
-	clic28 = clic17 + 1;
+	clic28 = clic28 + 1;
 	} else{
 		div = document.getElementById('flotante28');
 				div.style.display = 'none';
@@ -376,11 +376,63 @@
 	if(clic29==1){
 	div = document.getElementById('flotante29');
 			 div.style.display = '';
-	clic29 = clic17 + 1;
+	clic29 = clic29 + 1;
 	} else{
 		div = document.getElementById('flotante29');
 			div.style.display = 'none';
 	clic29= 1;
+	}
+		}
+
+	clic30=1;
+	function mostrar30() {
+	if(clic30==1){
+	div = document.getElementById('flotante30');
+			 div.style.display = '';
+	clic30 = clic30 + 1;
+	} else{
+		div = document.getElementById('flotante30');
+			div.style.display = 'none';
+	clic30= 1;
+	}
+		}
+
+	clic31=1;
+	function mostrar31() {
+	if(clic31==1){
+	div = document.getElementById('flotante31');
+			 div.style.display = '';
+	clic31 = clic31 + 1;
+	} else{
+		div = document.getElementById('flotante31');
+			div.style.display = 'none';
+	clic31= 1;
+	}
+		}
+
+	clic32=1;
+	function mostrar32() {
+	if(clic32==1){
+	div = document.getElementById('flotante32');
+			 div.style.display = '';
+	clic32 = clic32 + 1;
+	} else{
+		div = document.getElementById('flotante32');
+			div.style.display = 'none';
+	clic32= 1;
+	}
+		}
+
+	clic33=1;
+	function mostrar33() {
+	if(clic33==1){
+	div = document.getElementById('flotante33');
+			 div.style.display = '';
+	clic33 = clic33 + 1;
+	} else{
+		div = document.getElementById('flotante33');
+			div.style.display = 'none';
+	clic33= 1;
 	}
 		}
 
@@ -756,7 +808,7 @@
 					<div class="panel-body">
 						<p>a) Las partidas del Presupuesto de Egresos de la Federación y del Presupuesto de Egresos del Estado, así como los conceptos del clasificador por objeto del gasto, aplicables al y por el sujeto obligado, de cuando menos los últimos tres años.</p>
 						<p>b) <a href="docs\art-8-fracc-V\b)\INGRESOS EXTRAORDINARIOS.docx" target="_blank">Los ingresos extraordinarios recibidos por cualquier concepto, señalando el origen de los recursos, el nombre de los responsables de recibirlos, administrarlos y ejercerlos, así como el proyecto o programa donde serán aplicados.</a></p>
-						<p>c) El presupuesto de egresos anual y, en su caso, el clasificador por objeto del gasto del sujeto obligado, de cuando menos los últimos tres años.</a></p>
+						<p>c) <a href="docs\art-8-fracc-V\c)\presupuesto de egresos 2017.xlsx">El presupuesto de egresos anual y, en su caso, el clasificador por objeto del gasto del sujeto obligado, de cuando menos los últimos tres años.</a></p>
 						<p>d) Las convocatorias a concursos para ocupar cargos públicos y los resultados de los mismos.</a></p>
 						<p>e) <a href="docs\art-8-fracc-V\e)\organigrama 2015-2018.docx" target="_blank">El organigrama del sujeto obligado, con las modificaciones de cuando menos los últimos tres años, así como la plantilla del personal del sujeto obligado, con las modificaciones de cuando menos los últimos tres años, en la que se incluya el número total de plazas del personal de base, del personal de confianza y las vacantes.</a></p>
 						<p>f) <a href="javascript:mostrar10();">Las remuneraciones mensuales por puesto, incluidas todas las prestaciones, estímulos o compensaciones. ↓↑</a></p>
@@ -764,9 +816,34 @@
 								<br>
 									<li><a href="docs\art-8-fracc-V\f)\PRIMERA QUINCENA DE MARZO DEL 2016.xlsx" target="_blank">Primera Quincena de Marzo del 2016</a></li>
 									<li><a href="docs\art-8-fracc-V\f)\SEGUNDA QUINCENA DE MARZO DEL 2016.xlsx" target="_blank">Segunda Quincena de Marzo del 2016</a></li>
+									<li><a href="docs\art-8-fracc-V\f)\remuneraciones mensuales 2017.xlsx" target="_blank">Remuneraciones Mensuales 2017</a></li>
 								<br>
 							</div>
-						<p>g) Las nóminas completas del sujeto obligado en las que se incluya las gratificaciones, primas, comisiones, dietas y estímulos, de cuando menos los últimos tres años, y en su caso, con sistema de búsqueda.</a></p>
+						<p>g) <a href="javascript:mostrar30();">Las nóminas completas del sujeto obligado en las que se incluya las gratificaciones, primas, comisiones, dietas y estímulos, de cuando menos los últimos tres años, y en su caso, con sistema de búsqueda. ↓↑</a></p>
+							<div id="flotante30" style="display:none;">
+								<br>
+									<li><a href="javascript:mostrar31();">Nóminas 2016 ↓↑</a></li>
+										<div id="flotante31" style="display:none;">
+											<br>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2016\Nomina 2° Septiembre.xlsx" target="_blank">2a Nómina Septiembre</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2016\2° NOVIEMBRE NOMINA.xlsx" target="_blank">2a Nómina Noviembre</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2016\1° DICIEMBRE NOMINA.xlsx" target="_blank">1a Nómina Dicimebre</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2016\2° DICIEMBRE NOMINA.xlsx" target="_blank">2a Nómina Diciembre</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2016\AGUINALDO 2016.xlsx" target="_blank">Aguinaldo 2016</li>
+												<br>
+										</div>
+									<li><a href="javascript:mostrar32();">Nóminas 2017 ↓↑</a></li>
+										<div id="flotante32" style="display:none;">
+											<br>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2017\1° ENERO.xlsx" target="_blank">1a Nómina Enero</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2017\2° ENERO.xlsx" target="_blank">2a Nómina Enero</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2017\1° FEBRERO.xlsx" target="_blank">1a Nómina Febrero</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2017\2° FEBRERO.xlsx" target="_blank">2a Nómina Febrero</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2017\1° MARZO.xlsx" target="_blank">1a Nómina Marzo</a></li>
+											<br>
+										</div>
+								<br>
+							</div>
 						<p>h) <a href="docs\art-8-fracc-V\h)\pensionados.xlsx" target="_blank">El listado de jubilados y pensionados y el monto que reciben.</a></p>
 						<p>i) <a href="javascript:mostrar11();">Los estados financieros mensuales, de cuando menos los últimos tres años. ↓↑</a></p>
 							<div id="flotante11" style="display:none;">
@@ -879,7 +956,13 @@
 								<br>
 							</div>
 						<p>u) Los decretos y expedientes relativos a las expropiaciones que realicen por utilidad pública.</a></p>
-						<p>v) Las pólizas de los cheques expedidos, con identificación del número de cheque o transferencia, monto y nombre del beneficiario, indicando el motivo de la erogación, en el que de manera detallada y completa se indique para que erogó el recuso público, o en su caso la descripción que aparezca en la factura correspondiente; siempre y cuando con ello se aporten los elementos cualitativos y cuantitativos de la finalidad del cheque o transferencia.</a></p>
+						<p>v) <a href="javascript:mostrar33();">Las pólizas de los cheques expedidos, con identificación del número de cheque o transferencia, monto y nombre del beneficiario, indicando el motivo de la erogación, en el que de manera detallada y completa se indique para que erogó el recuso público, o en su caso la descripción que aparezca en la factura correspondiente; siempre y cuando con ello se aporten los elementos cualitativos y cuantitativos de la finalidad del cheque o transferencia. ↓↑</a></p>
+							<div id="flotante33" style="display:none;">
+								<br>
+								<li><a href="docs\art-8-fracc-V\v)\POLIZA CHEQUES NOVIEMBRE 2016.xlsx" target="_blank">Poliza Noviembre 2016</a></li>
+								<li><a href="docs\art-8-fracc-V\v)\POLIZA CHEQUES DICIEMBRE 2016.xlsx" target="_blank">Poliza Diciembre 2016</a></li>
+								<br>
+							</div>
 						<p>w) El estado de la deuda pública del sujeto obligado, donde se señale cuando menos responsable de la autorización, fecha de contratación, monto del crédito, tasa de interés, monto total amortizable, plazo de vencimiento, institución crediticia, objeto de aplicación y avance de aplicación de cada deuda contratada.</a></p>
 						<p>x) Los estados de cuenta bancarios que expiden las instituciones financieras, número de cuentas bancarias, estados financieros, cuentas de fideicomisos e inversiones, de cuando menos los últimos seis meses.</a></p>
 						<p>y) La información en versión pública de las declaraciones patrimoniales de los servidores públicos que así lo determinen, en los sistemas habilitados para ello, de acuerdo a la normatividad aplicable.</a></p>
